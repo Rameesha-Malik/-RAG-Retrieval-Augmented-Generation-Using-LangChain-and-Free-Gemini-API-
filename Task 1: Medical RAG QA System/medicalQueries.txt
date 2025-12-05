@@ -1,0 +1,127 @@
+answers:
+
+1. What are symptoms of diabetes?
+Answer: The provided transcriptions don't contain sufficient information.
+Sources used: 3  
+
+2. How is heart attack diagnosed?
+Answer: The provided transcriptions don't contain sufficient information.
+Sources used: 3  
+
+3. What treatments exist for asthma?
+Answer: The provided transcriptions don't contain sufficient information.
+Sources used: 3  
+
+4. What causes high blood pressure?
+Answer: The provided transcriptions don't contain sufficient information.
+Sources used: 3  
+
+5. How is pneumonia treated?
+Answer: Pneumonia can be treated on an outpatient basis [Source 1, Source 2]. Amoxicillin was given for yellow nasal discharge by the primary care provider [Source 1, Source 2]. In cases with rapid sepsis and respiratory failure, treatment involves aggressive measures such as mechanical ventilation, intubation, and other supportive measures [Source 3].
+Sources used: 3  
+
+6. What are signs of stroke?
+Answer: The provided transcriptions don't contain sufficient information to answer what the general signs of stroke are. The context mentions a patient's reported symptoms including dizziness, left hand and left jaw numbness, and feeling something in her throat, as well as a history of dizziness and falling [Source 1, Source 2]. It also notes an MRI finding of a left lateral medullary stroke [Source 3]. However, it does not provide a general list or definition of "signs of stroke."
+Sources used: 3  
+
+7. How is arthritis managed?
+Answer: Arthritis, specifically Rheumatoid Arthritis (RA), can be managed with night splints for involved joints, and it is advised to avoid placing a pillow under the knees to prevent joint contracture [Source 3]. Heat, such as hot water soaks, whirlpool baths, heat lamps, and heating pads, can help relieve pain [Source 3].
+Sources used: 3  
+
+8. What indicates kidney disease?
+Answer: Kidney disease is indicated by:
+*   Chronic kidney disease, specifically stage III [Source 1].
+*   Acute on chronic renal insufficiency [Source 2, Source 3].
+*   Elevated blood urea and creatinine [Source 2, Source 3].
+Sources used: 3  
+
+9. How is cancer detected?
+Answer: Cancer can be detected through mammography, which uses FDA-approved digital mammography equipment and iCAD Second Look Software [Source 1, Source 2]. Annual screening mammography is recommended [Source 3]. However, mammography may not identify 10% to 15% of cancers [Source 1, Source 2, Source 3]. If a clinically suspicious mass is present, a biopsy should not be delayed, even if there is a lack of radiographic evidence of malignancy [Source 1, Source 2, Source 3].
+Sources used: 3  
+
+10. What are treatments for depression?
+Answer: Treatments for depression mentioned in the provided context include Prozac, counseling, and lithium [Source 1, Source 2, Source 3].
+Sources used: 3  
+
+11. How is a CT scan performed?
+Answer: A CT scan is performed by transferring the patient to a diagnostic facility and placing them on a flat CT scan table [Source 1, Source 2]. Scans are then performed through the targeted area [Source 1, Source 2]. In one instance, 125 mL of Omnipaque 250 contrast was administered, and 1.2-mm contiguous axial CT slices were acquired [Source 3].
+Sources used: 3  
+
+12. What medications treat diabetes?
+Answer: Medications that treat diabetes include Starlix 120 mg p.o. t.i.d., Lantus insulin, and oral hypoglycemics [Source 1, Source 2, Source 3].
+Sources used: 3  
+
+13. What are complications of surgery?
+Answer: Complications of surgery include risk of anesthesia, infection, bleeding, changes in sensation and motion of extremity, failure to restore normal anatomy, continued contracture, and possible need for other procedures [Source 1, Source 2].
+Sources used: 3  
+
+14. How is blood pressure monitored?
+Answer: Blood pressure is monitored by checking it weekly at the workplace using a blood pressure recording card [Source 1].
+Sources used: 3  
+
+15. What are side effects of chemotherapy?
+Answer: Side effects of chemotherapy include GI upset, diarrhea, nausea, vomiting, mucositis, fatigue, loss of appetite, low blood counts (potentially requiring transfusion), and risk of infections, which can be fatal in rare cases [Source 1, Source 2].
+Sources used: 3  
+
+16. How is thyroid tested?
+Answer: Thyroid function is tested by measuring TSH, free T4, and total T4 [Source 3]. A "thyroid function test" is mentioned as a way to ensure a patient is not hyperthyroid [Source 1, Source 2].
+Sources used: 3  
+
+17. What causes chest pain?
+Answer: The provided transcriptions don't contain sufficient information.
+Sources used: 3  
+
+18. How is anemia diagnosed?
+Answer: The provided transcriptions don't contain sufficient information.
+Sources used: 3  
+
+19. What treatments help with pain?
+Answer: Treatments that help with pain include NSAIDs (non-steroidal anti-inflammatory drugs), Acetaminophen (Tylenol) for pain relief, and oral corticosteroids short term. Corticosteroid injections into a joint can also temporarily relieve pain [Source 3].
+Sources used: 3  
+
+20. How is infection prevented?
+Answer: Infection can be prevented by:
+*   Using a special powder to absorb moisture on feet [Source 2].
+*   Spraying your shower at home with a 10% bleach solution after bathing to help decrease the chance that other family members will be infected [Source 2].
+*   Wearing sandals or thongs in public showers and around pools [Source 2].
+Sources used: 3  
+
+21. What are risks of obesity?
+Answer: The provided transcriptions don't contain sufficient information.
+Sources used: 3  
+
+22. How is cholesterol managed?
+Answer: Cholesterol is managed through several treatment options. Diet is one option, which can lead to a 15% reduction in cholesterol under strict conditions, although it offers limited reduction in total and LDL cholesterol [Source 1]. For moderate to severely elevated cholesterol levels, diet is usually not the first line of therapy [Source 1, Source 2]. Medication is also used to lower elevated cholesterol [Source 3]. Patients have been noted to improve their diet by consuming less cappuccino, quiche, crescents, and candy, and by packing lunch more frequently instead of eating out [Source 3].
+Sources used: 3  
+
+23. What causes fatigue?
+Answer: The patient reports being under a significant amount of stress, which is mentioned in the context of overwhelming fatigue and exhaustion [Source 3].
+Sources used: 3  
+
+24. How is liver function tested?
+Answer: The provided transcriptions don't contain sufficient information on how liver function is tested. The context mentions "elevated liver function tests" as the reason for an ultrasound [Source 1, Source 2] and that a "hepatitis panel and alpha-fetoprotein level" are being awaited [Source 3], but it does not describe the methodology of these tests.
+Sources used: 3  
+
+25. What are symptoms of allergies?
+Answer: The provided transcriptions don't contain sufficient information. The context only states "No known medical allergies" [Source 1, Source 2, Source 3], but does not describe symptoms of allergies.
+Sources used: 3  
+
+26. How is migraine treated?
+Answer: Migraine can be treated with Tylenol for pain [Source 1, Source 2]. Imitrex is also an acceptable alternative for migraine headaches [Source 3].
+Sources used: 3  
+
+27. What causes dizziness?
+Answer: The provided transcriptions don't contain sufficient information. [Source 1, Source 2, Source 3]
+Sources used: 3  
+
+28. How is glucose monitored?
+Answer: The provided transcriptions state that "blood glucoses" will be reviewed again next week [Source 1, 2, 3]. However, the transcriptions do not contain sufficient information on *how* glucose is monitored.
+Sources used: 3  
+
+29. What are signs of dehydration?
+Answer: The provided transcriptions don't contain sufficient information.
+Sources used: 3  
+
+30. How is wound care done?
+Answer: Wound care involves excising the area with Bovie cautery, using a curette to remove necrotic fascia, irrigating the wound, sending cultures, packing the wound with antibiotic-soaked gauze, and applying a dressing [Source 1, Source 2]. The finished wound size was 9.0 x 5.3 x 5.2 cm [Source 1, Source 2]. Wound care will also be managed by the wound care team at the Long-Term Acute Care Facility [Source 3].
+Sources used: 3  
