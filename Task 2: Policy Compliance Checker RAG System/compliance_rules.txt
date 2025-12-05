@@ -1,0 +1,15 @@
+R1: Contracts must clearly state the termination notice period (minimum 30 days)
+R2: Confidentiality clauses must specify what information is considered confidential
+R3: Payment terms must include specific due dates or payment schedules
+R4: Liability limitations must be clearly defined and reasonable
+R5: Intellectual property ownership must be explicitly stated
+R6: Data protection and privacy compliance (GDPR/similar) must be mentioned
+R7: Dispute resolution mechanism must be specified (arbitration/court jurisdiction)
+R8: Force majeure events must be clearly defined
+R9: Non-compete clauses must have reasonable time and geographic scope
+R10: Warranty terms and limitations must be explicitly stated
+R11: Indemnification responsibilities must be clearly outlined
+R12: Governing law and jurisdiction must be specified
+R13: Assignment and transfer rights must be addressed
+R14: Amendment procedures must be documented
+R15: Effective date and contract duration must be clearly stated
