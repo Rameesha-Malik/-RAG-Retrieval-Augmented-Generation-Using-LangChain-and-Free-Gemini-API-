@@ -1,0 +1,101 @@
+[
+  {
+    "rule_id": "R1",
+    "rule_text": "Contracts must clearly state the termination notice period (minimum 30 days)",
+    "steps": [
+      {
+        "step": 1,
+        "action": "Initial Check",
+        "result": "- STATUS: COMPLIANT\n- EVIDENCE:\n    *   \"by either party on not less than 60 days\u2019 written notice to the other party hereto.\" (Section 5(a))\n    *   \"Either Party may terminate this Agreement by giving the other Party thirty (30) days' prior written notice.\" (ARTICLE 3, Section 3.1)\n    *   \"This Agreement may be terminated by either party upon thirty (30) days written notice to the other in the event of a breach of a material provision hereof...\" (Section 9.A)\n- EXPLANATION: The contract excerpts clearly state various termination notice periods, including \"not less than 60 days\" and \"thirty (30) days' prior written notice.\" All specified notice periods meet or exceed the minimum requirement of 30 days."
+      }
+    ],
+    "tools_used": [
+      "check_rule_compliance"
+    ],
+    "final_analysis": "COMPLIANT: - STATUS: COMPLIANT\n- EVIDENCE:\n    *   \"by either party on not less than 60 days\u2019 written notice to the other party hereto.\" (Section 5(a))\n    *   \"Either Party may terminate this Agreement by giving the other Party thirty (30) days' prior written notice.\" (ARTICLE 3, Section 3.1)\n    *   \"This Agreement may be terminated by either party upon thirty (30) days written notice to the other in the event of a breach of a material provision hereof...\" (Section 9.A)\n- EXPLANATION: The contract excerpts clearly state various termination notice periods, including \"not less than 60 days\" and \"thirty (30) days' prior written notice.\" All specified notice periods meet or exceed the minimum requirement of 30 days."
+  },
+  {
+    "rule_id": "R2",
+    "rule_text": "Confidentiality clauses must specify what information is considered confidential",
+    "steps": [
+      {
+        "step": 1,
+        "action": "Initial Check",
+        "result": "- STATUS: NON-COMPLIANT\n- EVIDENCE: The provided contract excerpts repeatedly refer to \"Confidential Information\" and specify what it *does not* include (e.g., \"B. Notwithstanding the foregoing, Confidential Information shall not include information which: (i) is known to the receiving party at the time of disclosure or becomes known to the receiving party without breach of this Agreement\u037e (ii) is or becomes publicly known through no wrongful act of the...\"). However, the excerpts do not contain a clause that explicitly defines what information *is* considered \"Confidential Information.\"\n- EXPLANATION: While the excerpts detail the treatment and exceptions for \"Confidential Information,\" they lack a foundational definition of what types of information are encompassed by this term. The contract only specifies exclusions, leaving the core definition unclear within the provided text.\n- SUGGESTION: Add a specific clause, typically at the beginning of the confidentiality section, that clearly defines \"Confidential Information\" by listing categories or examples of information intended to be protected (e.g., \"Confidential Information means any non-public information, whether written or oral, disclosed by the Disclosing Party to the Receiving Party, including but not limited to, trade secrets, business plans, financial data, customer lists, technical information, and intellectual property.\")."
+      },
+      {
+        "step": 2,
+        "action": "Remediation Steps",
+        "result": "- STATUS: NON-COMPLIANT\n- EVIDENCE: The provided contract excerpts include Section B, which states: \"B. Notwithstanding the foregoing, Confidential Information shall not include information which: (i) is known to the receiving party at the time of disclosure or becomes known to the receiving party without breach of this Agreement\u037e (ii) is or becomes publicly known through no wrongful act of the receiving party.\" This section defines what *is not* Confidential Information, but the excerpts do not contain a positive definition of what *is* considered Confidential Information.\n- EXPLANATION: The compliance rule requires confidentiality clauses to specify what information *is* considered confidential. While the contract outlines exclusions from confidentiality, it lacks an explicit, affirmative definition of the scope of \"Confidential Information\" itself. This omission leaves the core subject of the confidentiality obligations undefined.\n- SUGGESTION:\n    1.  **Specific clauses to add:** A new clause explicitly defining \"Confidential Information.\"\n    2.  **Exact wording recommendations:**\n        \"**Confidential Information**\" means any and all non-public information, whether written or oral, disclosed by the Disclosing Party to the Receiving Party, including, but not limited to, business plans, financial data, customer lists, technical data, product designs, marketing strategies, trade secrets, proprietary information, and any other information designated as confidential or proprietary by the Disclosing Party at the time of disclosure.\n    3.  **Where to place them in the contract:** This definition should be placed prominently, ideally at the beginning of the confidentiality section (e.g., as a new subsection (a) before the current (b) and (c) sections) or in a dedicated \"Definitions\" section of the agreement."
+      },
+      {
+        "step": 3,
+        "action": "Impact Assessment",
+        "result": "- STATUS: COMPLIANT\n- EVIDENCE: \"7.1 Confidentiality (a) \u201cConfidential Information \u201d means all forms of confidential information, including technical information and business information, disclosed by one Party or its Affiliates (the \u201c Disclosing Party \u201d) to the other Party or its Affiliates (the \u201cReceiving Party \u201d) during the Term in connection with this Agreement, that is identified as confidential or is\"\n- EXPLANATION: The contract explicitly defines \"Confidential Information\" in clause 7.1(a). It specifies that it includes \"all forms of confidential information, including technical information and business information,\" and further clarifies that it must be \"disclosed... during the Term in connection with this Agreement, that is identified as confidential or is [implied: inherently confidential or treated as such]\". This definition clearly outlines what information falls under the confidentiality obligations."
+      }
+    ],
+    "tools_used": [
+      "check_rule_compliance",
+      "get_remediation_steps",
+      "assess_compliance_impact"
+    ],
+    "final_analysis": "**Executive Summary**\n\n**1. Compliance Status and Key Issues:**\nThe contract is **COMPLIANT** with the rule that confidentiality clauses must specify what information is considered confidential. Initially, the \"Initial Check\" and \"Remediation\" phases flagged the contract as NON-COMPLIANT, noting that the provided excerpts primarily defined what \"Confidential Information\" *does not* include (e.g., Section B) rather than what it *does*. However, a subsequent, more comprehensive review during the \"Impact\" phase identified clause 7.1(a), which explicitly defines \"Confidential Information,\" thereby resolving the initial non-compliance finding. The key issue was an incomplete scope of information during the earlier analytical steps, rather than an actual deficiency in the contract.\n\n**2. Priority Remediation Actions:**\nNo immediate remediation actions are required for the contract itself regarding this specific rule, as clause 7.1(a) adequately addresses the requirement to specify what information is considered confidential. It is recommended to ensure that all relevant sections of a contract are available and thoroughly reviewed during the initial compliance checks to prevent misidentification of compliance status.\n\n**3. Related Clauses Affected:**\n*   **Primary Compliant Clause:** 7.1(a) (\"Confidential Information\" definition).\n*   **Related Clauses:** Section B, which complements the primary definition by outlining specific exclusions to \"Confidential Information.\"\n\n**4. Risk Level:**\n**Low.** The contract effectively meets the rule's requirement through clause 7.1(a). The initial non-compliance was an analytical finding based on incomplete information, not an actual contractual deficiency."
+  },
+  {
+    "rule_id": "R3",
+    "rule_text": "Payment terms must include specific due dates or payment schedules",
+    "steps": [
+      {
+        "step": 1,
+        "action": "Initial Check",
+        "result": "- STATUS: NON-COMPLIANT\n- EVIDENCE: The provided contract excerpts do not contain any clauses specifying payment due dates or schedules.\n- EXPLANATION: The excerpts discuss remedies for breach, notice procedures, content usage terms, termination, and a limitation of liability. There is no language that establishes when payments are to be made or a schedule for such payments.\n- SUGGESTION: Add a new section or amend an existing one (e.g., Section 14, which is titled \"NOTICE AND PAYMENT\" but only contains 14.B about content term) to clearly define payment due dates, frequency, or reference a payment schedule. For example, \"All undisputed invoices shall be paid within thirty (30) days of receipt\" or \"Payments shall be made according to the schedule outlined in Exhibit A.\""
+      },
+      {
+        "step": 2,
+        "action": "Remediation Steps",
+        "result": "- STATUS: NON-COMPLIANT\n- EVIDENCE: \"For its Services under this Agreement, Adviser agrees to pay FASC the Services Fees calculated and payable in accordance with Exhibit B to this Agreement.\"\n- EXPLANATION: The contract excerpts state that payment terms are \"calculated and payable in accordance with Exhibit B.\" However, Exhibit B is not provided, and the excerpts themselves do not contain specific due dates or a payment schedule, which is required by the compliance rule.\n- SUGGESTION:\n    1.  **Specific clauses to add:** A clause specifying the due date for payments or a clear payment schedule.\n    2.  **Exact wording recommendations:** Amend Section 2 or add a new sentence to it. For example:\n        *   \"For its Services under this Agreement, Adviser agrees to pay FASC the Services Fees calculated and payable in accordance with Exhibit B to this Agreement. **Unless otherwise specified in Exhibit B, all invoices shall be due and payable within thirty (30) days of the invoice date.**\"\n        *   Alternatively, if payments are on a fixed schedule: \"For its Services under this Agreement, Adviser agrees to pay FASC the Services Fees calculated and payable in accordance with Exhibit B to this Agreement. **Payments shall be made on the first (1st) day of each calendar month for services rendered in the preceding month.**\"\n    3.  **Where to place them in the contract:** Within Section 2, immediately following the existing sentence regarding fees and Exhibit B."
+      },
+      {
+        "step": 3,
+        "action": "Impact Assessment",
+        "result": "- STATUS: NON-COMPLIANT\n\n- EVIDENCE: The provided contract excerpts do not contain any clauses detailing payment terms, specific due dates, or payment schedules.\n\n- EXPLANATION: The contract excerpts are non-compliant because they entirely lack provisions for payment terms, including specific due dates or payment schedules. This absence makes it impossible to determine when payments are due, thereby hindering the ability to establish a breach related to non-payment. Consequently, clauses concerning general breach remedies (e) and termination for material breach (9.A) would be significantly impacted, as a payment-related breach cannot be clearly defined or proven.\n\n- SUGGESTION: A new section must be added to the contract that explicitly outlines comprehensive payment terms. This section should include specific due dates, payment schedules, methods of payment, and clear consequences for late or non-payment to ensure enforceability and clarity regarding financial obligations."
+      }
+    ],
+    "tools_used": [
+      "check_rule_compliance",
+      "get_remediation_steps",
+      "assess_compliance_impact"
+    ],
+    "final_analysis": "Here is a comprehensive executive summary based on the multi-step analysis:\n\n---\n\n**Executive Summary: Payment Terms Compliance Review**\n\n**1. Compliance Status and Key Issues:**\n\nThe contract is **NON-COMPLIANT** with the rule requiring payment terms to include specific due dates or payment schedules. The primary issue is the complete absence of explicit payment due dates or a clear payment schedule within the provided contract excerpts. While Section 14 is titled \"NOTICE AND PAYMENT\" and the Remediation evidence references payment terms being \"calculated and payable in accordance with Exhibit B,\" neither the main contract text nor the (missing) Exhibit B provides the necessary specific details. This critical omission makes it impossible to definitively determine when payments are due, severely hindering the ability to establish a breach related to non-payment.\n\n**2. Priority Remediation Actions:**\n\nThe most critical remediation is to **immediately add specific payment due dates and a clear payment schedule** to the agreement. This can be achieved by either:\n\n*   **Integrating these details directly** into an existing or new section of the main contract (e.g., amending Section 14 to include specific payment terms, frequency, and due dates).\n*   **Ensuring that 'Exhibit B' (or an equivalent schedule)** is fully developed, attached, and explicitly incorporated by reference, containing all required payment specifics such as payment frequency, triggers (e.g., upon invoice, milestone completion), and exact due dates.\n\n**3. Related Clauses Affected:**\n\nDirectly affected is **Section 14 ('NOTICE AND PAYMENT')**, which currently lacks the necessary payment specifics despite its title. More broadly, any clauses related to **breach, remedies, termination, dispute resolution, and interest on late payments** are indirectly impacted. Without clear due dates, enforcing these provisions in the event of non-payment becomes legally challenging or impossible.\n\n**4. Risk Level:**\n\nThe risk level associated with this non-compliance is **HIGH**. The inability to ascertain specific payment due dates fundamentally undermines the enforceability of the agreement's core commercial terms. This exposes the organization to significant financial risk, including delayed payments, non-payment, cash flow disruptions, and protracted disputes, as there is no clear legal basis to demand payment by a certain date or to declare a breach for late payment."
+  },
+  {
+    "rule_id": "R4",
+    "rule_text": "Liability limitations must be clearly defined and reasonable",
+    "steps": [
+      {
+        "step": 1,
+        "action": "Initial Check",
+        "result": "- STATUS: COMPLIANT\n- EVIDENCE:\n    - \"4.2 LIMITATION OF WARRANTY AND LIABILITY. LICENSOR DOES NOT MAKE WARRANTIES OF ANY KIND, WHETHER EXPRESS, IMPLIED, RELATED TO OR ARISING OUT OF THE LICENSED MARK OR THIS AGREEMENT.\"\n    - \"4.2.1 LICENSOR SPECIFICALLY DISCLAIMS ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT AND TITLE, AND ALL OTHER WARRANTIES THAT MAY OTHERWISE ARISE FROM COURSE OF DEALING, USAGE OF TRADE OR CUSTOM.\"\n- EXPLANATION: The contract clearly defines its limitations on liability by explicitly disclaiming all warranties, both express and implied. It further specifies common implied warranties such as merchantability, fitness for a particular purpose, non-infringement, and title. Such disclaimers are standard and generally considered reasonable in commercial agreements."
+      }
+    ],
+    "tools_used": [
+      "check_rule_compliance"
+    ],
+    "final_analysis": "COMPLIANT: - STATUS: COMPLIANT\n- EVIDENCE:\n    - \"4.2 LIMITATION OF WARRANTY AND LIABILITY. LICENSOR DOES NOT MAKE WARRANTIES OF ANY KIND, WHETHER EXPRESS, IMPLIED, RELATED TO OR ARISING OUT OF THE LICENSED MARK OR THIS AGREEMENT.\"\n    - \"4.2.1 LICENSOR SPECIFICALLY DISCLAIMS ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT AND TITLE, AND ALL OTHER WARRANTIES THAT MAY OTHERWISE ARISE FROM COURSE OF DEALING, USAGE OF TRADE OR CUSTOM.\"\n- EXPLANATION: The contract clearly defines its limitations on liability by explicitly disclaiming all warranties, both express and implied. It further specifies common implied warranties such as merchantability, fitness for a particular purpose, non-infringement, and title. Such disclaimers are standard and generally considered reasonable in commercial agreements."
+  },
+  {
+    "rule_id": "R5",
+    "rule_text": "Intellectual property ownership must be explicitly stated",
+    "steps": [
+      {
+        "step": 1,
+        "action": "Initial Check",
+        "result": "- STATUS: COMPLIANT\n- EVIDENCE: \"CONTENT PROVIDER, LICENSORS or either of them, as appropriate, shall retain all worldwide rights, title and interest in and to the Content (including, but not limited to, ownership of all copyrights and other intellectual property rights therein), as well as all right, title and interest in and to their and each of their trademarks, service marks and trade names, worldwide, including any goodwill associated therewith, subject to the limited license granted to COMPANY hereunder.\"\n- EXPLANATION: The contract explicitly states that CONTENT PROVIDER and LICENSORS retain ownership of all copyrights and other intellectual property rights related to the Content, as well as their trademarks and service marks. This clearly defines who owns the intellectual property."
+      }
+    ],
+    "tools_used": [
+      "check_rule_compliance"
+    ],
+    "final_analysis": "COMPLIANT: - STATUS: COMPLIANT\n- EVIDENCE: \"CONTENT PROVIDER, LICENSORS or either of them, as appropriate, shall retain all worldwide rights, title and interest in and to the Content (including, but not limited to, ownership of all copyrights and other intellectual property rights therein), as well as all right, title and interest in and to their and each of their trademarks, service marks and trade names, worldwide, including any goodwill associated therewith, subject to the limited license granted to COMPANY hereunder.\"\n- EXPLANATION: The contract explicitly states that CONTENT PROVIDER and LICENSORS retain ownership of all copyrights and other intellectual property rights related to the Content, as well as their trademarks and service marks. This clearly defines who owns the intellectual property."
+  }
+]
